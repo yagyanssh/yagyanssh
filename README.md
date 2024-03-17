@@ -19,16 +19,19 @@ Here are some ideas to get you started:
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Developer Profile</title>
+  
 </head>
 <body>
   <h1>Hi there! 👋 I'm Yagyansh Sharma</h1>
-
+<hr>
+  
+<hr>
+  <h2>🚀 About Me</h2>
   <p>
     I'm a passionate developer with a drive to understand and implement new technologies. My journey is fueled by a passion for contributing to open-source frameworks and leveraging my skills to make a positive impact.
   </p>
-
-  <h2>🚀 About Me</h2>
+  <h2>🛠️ Key Skills</h2>
+  <img src="https://img.shields.io/badge/-javascript-green?style=flat-square&logo=website&logoColor=white" alt="Javascript">
   <ul>
     <li>💻 I specialize in JavaScript, Python, HTML/CSS, and MySQL.</li>
     <li>🚀 I have a deep understanding of frameworks like ReactJS, Node.js, Express, Django, MongoDB, and Agile methodologies.</li>
@@ -57,7 +60,7 @@ Here are some ideas to get you started:
   <ul>
     <li>LinkedIn: <a href="https://www.linkedin.com/in/yagyansh-sharma-939718248/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a></li>
     <li>Email: <a href="mailto:yagyansh9999@email.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a></li>
-    <li>Twitter: <a href="https://twitter.com/yagyansh_sharma"><img src="https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=website&logoColor=white" alt="Twitter"></a></li>
+    <li>Twitter: <a href="https://twitter.com/yagyansh_sharma"><img src="https://img.shields.io/badge/-Twitter-green?style=flat-square&logo=website&logoColor=white" alt="Twitter"></a></li>
   </ul>
 </body>
 </html>
