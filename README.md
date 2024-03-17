@@ -25,29 +25,26 @@ Here are some ideas to get you started:
   <h1>Hi there! 👋 I'm Yagyansh Sharma</h1>
 <hr>
   
-<hr>
+
   <h2>🚀 About Me</h2>
   <p>
     I'm a passionate developer with a drive to understand and implement new technologies. My journey is fueled by a passion for contributing to open-source frameworks and leveraging my skills to make a positive impact.
   </p>
   <h2>🛠️ Key Skills</h2>
+  <h4>🔧 <strong>Programming Languages:</strong><h4>
   <img src="https://img.shields.io/badge/-javascript-green?style=flat-square&logo=website&logoColor=white" alt="Javascript">
-  <ul>
-    <li>💻 I specialize in JavaScript, Python, HTML/CSS, and MySQL.</li>
-    <li>🚀 I have a deep understanding of frameworks like ReactJS, Node.js, Express, Django, MongoDB, and Agile methodologies.</li>
-    <li>🌱 I'm constantly learning and exploring new technologies to stay ahead in the fast-paced tech industry.</li>
-    <li>👯 I love collaborating with fellow developers and contributing to open-source projects.</li>
-    <li>📚 I believe in continuous learning and improvement to enhance my skills and knowledge.</li>
-  </ul>
+   <img src="https://img.shields.io/badge/-python-red?style=flat-square&logo=website&logoColor=white" alt="JPython">
+    <img src="https://img.shields.io/badge/-html/css-lue?style=flat-square&logo=website&logoColor=white" alt="HTML/CSS">
+     <img src="https://img.shields.io/badge/-mysql-green?style=flat-square&logo=website&logoColor=white" alt="Mysql">
+<h4>🌐 <strong>Web Technologies:</strong></h4>
+<img src="https://img.shields.io/badge/-reactjs-green?style=flat-square&logo=website&logoColor=white" alt="React.js">
+   <img src="https://img.shields.io/badge/-nodejs-red?style=flat-square&logo=website&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/-django-lue?style=flat-square&logo=website&logoColor=white" alt="Django">
+     <img src="https://img.shields.io/badge/-mongodb-green?style=flat-square&logo=website&logoColor=white" alt="MongoDB">
 
-  <h2>🛠️ Key Skills</h2>
-  <ul>
-    <li>🔧 <strong>Programming Languages:</strong> JavaScript, Python</li>
-    <li>🌐 <strong>Web Technologies:</strong> HTML, CSS, ReactJS, Node.js, Express</li>
-    <li>🛢️ <strong>Databases:</strong> MySQL, MongoDB</li>
-    <li>🚀 <strong>Frameworks & Tools:</strong> Django, Agile methodologies</li>
-    <li>📝 <strong>Version Control:</strong> Git, GitHub</li>
-  </ul>
+
+    
+
 
   <h2>💻 Projects</h2>
   <ul>
