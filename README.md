@@ -48,15 +48,9 @@ Here are some ideas to get you started:
 
   <h2>💻 Projects</h2>
   <ul>
-    <li><a href="link">Leetcode-Clone</a>: This is a project where we are trying to learn that is there any way possible that our AI can predict that the ongoing customers of American Express Credit Card will close there accounts or not, by analysing the data of the coustomers. DataSet used in this project is the standard American Express Credit Card Data which have the coustomers informaion such as Credit_Score, Geography, Gender, Age, etc.</li>
-    <li><a href="link">American Express-Data Analysis</a>: It is a Social Media Application build using Django. It includes features like URL Routing, Template Setup, Static Files, Profile Model, Signup, Signin and Logout, Account Settings, Uploading Post, Post Feed, Like Post, Profile Page, Follow and Unfollow User, Post Feed Updated, Download Images, Search User, User Suggestions.</li>
-    <li><a href="link">Social Media App</a>: Build an end to end leetcode clone
-
-Users should be able to sign in
-Users should be able to list all the problem statements
-Users should be able to submit solutions and get back results
-Users should get points based on how fast their submission was
-Global leaderboard which contains daily, weekly, monthly and all time rankers.</li>
+    <li><a href="link">Leetcode-Clone</a></li>
+    <li><a href="link">American Express-Data Analysis</a></li>
+    <li><a href="link">Social Media App</a>:</li>
   </ul>
 
   <h2>🤝 Get in Touch</h2>
