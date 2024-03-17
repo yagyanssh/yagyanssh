@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <title>Developer Profile</title>
 </head>
 <body>
-  <h1>Hi there! 👋 I'm Yagyansh Here</h1>
+  <h1>Hi there! 👋 I'm Yagyansh Sharma</h1>
 
   <p>
     I'm a passionate developer with a drive to understand and implement new technologies. My journey is fueled by a passion for contributing to open-source frameworks and leveraging my skills to make a positive impact.
