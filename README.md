@@ -32,9 +32,9 @@ Here are some ideas to get you started:
   </p>
   <h2>🛠️ Key Skills</h2>
   <h4>🔧 <strong>Programming Languages:</strong><h4>
-  <img src="https://img.shields.io/badge/-javascript-green?style=flat-square&logo=website&logoColor=white" alt="Javascript">
+  <img src="https://img.shields.io/badge/-javascript-orange?style=flat-square&logo=website&logoColor=white" alt="Javascript">
    <img src="https://img.shields.io/badge/-python-red?style=flat-square&logo=website&logoColor=white" alt="JPython">
-    <img src="https://img.shields.io/badge/-html/css-lue?style=flat-square&logo=website&logoColor=white" alt="HTML/CSS">
+    <img src="https://img.shields.io/badge/-html/css-blue?style=flat-square&logo=website&logoColor=white" alt="HTML/CSS">
      <img src="https://img.shields.io/badge/-mysql-green?style=flat-square&logo=website&logoColor=white" alt="Mysql">
 <h4>🌐 <strong>Web Technologies:</strong></h4>
 <img src="https://img.shields.io/badge/-reactjs-green?style=flat-square&logo=website&logoColor=white" alt="React.js">
