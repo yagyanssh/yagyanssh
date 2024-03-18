@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </head>
 <body>
   <h1>Hi there! 👋 Yagyansh Here</h1>
-<hr>
+
   
 
   <h2>🚀 About Me</h2>
