@@ -48,9 +48,15 @@ Here are some ideas to get you started:
 
   <h2>💻 Projects</h2>
   <ul>
+    <li><a href="https://github.com/yagyanssh/OpenAI-Yezzy-Bot">OpenAI Bot</a>:</li>
     <li><a href="https://github.com/yagyanssh/Leetcode-Clone-">Leetcode-Clone</a></li>
     <li><a href="https://github.com/yagyanssh/American-Express---AI-Data-Analysis">American Express-Data Analysis</a></li>
     <li><a href="https://github.com/yagyanssh/Social-Media-Application">Social Media App</a>:</li>
+    <li><a href="https://github.com/yagyanssh/Snake-Game">Snake Game</a>:</li>
+    <li><a href="https://github.com/yagyanssh/Spotify-musicplayer">Spotify Music Player</a>:</li>
+    <li><a href="https://github.com/yagyanssh/Spotify-musicplayer">To-Do List</a>:</li>
+    
+    
   </ul>
 
   <h2>🤝 Get in Touch</h2>
